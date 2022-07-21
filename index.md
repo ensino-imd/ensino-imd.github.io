@@ -5,7 +5,7 @@ As informações sobre a oferta da disciplina no período 2020.2 podem ser lidas
 Email para contato: [ensino.imd@gmail.br](mailto:ensino.imd@gmail.br).
 
 # Notas de Aula
-As Notas de Aula são o material principal para o acompanhamento da disciplina. Elas são fruto de um projeto de pesquisa coordenado pelo professor Antonio Igor.
+As Notas de Aula são o material principal para o acompanhamento da disciplina. Elas foram escritas pelo professor Irineu Palhares.
 
 Arquivo das Notas de Aula:
 - Notas de Aula - Cálculo: [Preview](materiais/notas-de-aula-v1.14.pdf).
