@@ -42,4 +42,4 @@ Arquivos dos slides usados em aula:
 
 
 --- -->
-%Encontrou algum erro ou tem alguma sugestão? Por favor, comunique-nos mandando um e-mail para o endereço [ensino.imd@gmail.br](mailto:ensino.imd@gmail.br) com a sua contribuição e identificação com nome e turma. Agradecemos a sua colaboração.
+Encontrou algum erro ou tem alguma sugestão? Por favor, comunique-nos mandando um e-mail para o endereço [ensino.imd@gmail.br](mailto:ensino.imd@gmail.br) com a sua contribuição e identificação com nome e turma. Agradecemos a sua colaboração.
