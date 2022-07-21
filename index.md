@@ -1,7 +1,7 @@
 <!-- # Informações Gerais
 As informações sobre a oferta da disciplina no período 2020.2 podem ser lidas no [Plano de Curso](https://drive.google.com/file/d/1P5gzhI-wrO_lZKLjTi2-reVs7j3ia8bb/view?usp=sharing). Uma live de dúvidas sobre esse plano pode ser assistida [aqui](https://drive.google.com/drive/folders/1H70yHhUw56rLBTXCzbOfJ-ODy1v9OkPd?usp=sharing). -->
 
-## Contato
+# Contato
 Email para contato: [ensino.imd@gmail.br](mailto:ensino.imd@gmail.br).
 
 # Notas de Aula
