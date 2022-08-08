@@ -41,13 +41,13 @@ Arquivos dos slides usados em aula:
 - [ME10 - Funções Trigonométricas](materiais/ME10%20-%20Funções%20Trigonométricas.pdf)
 
 ## Geometria Euclidiana
-- [GE01 - Axiomas de Incidência e Ordem](materiais/aula1_AxiomasIncidenciaEOrdem.pdf)
-- [GE02 - Axiomas Sobre Medição de Segmentos](materiais/GE02-Axiomas%sobre%Medição%de%Segmentos.pdf)
-- [GE03 - Axiomas Sobre Medição de Ângulos](materiais/ME03%20-%20Equações%20e%20Inequações.pdf)
-- [GE04 - Congruência](materiais/ME04%20-%20Princípio%20da%20Indução%20Finita.pdf)
-- [GE05 - Teorema do Ângulo Externo](materiais/ME05%20-%20Funções.pdf)
-- [GE06 - Axioma das Paralelas](materiais/ME06%20-%20Progressões.pdf)
-- [GE07 - Semelhança de Triângulos](materiais/ME07%20-%20Funções%20Reais%20e%20Gráficos.pdf)
+- [GE01 - Axiomas de Incidência e Ordem](SlidesGE/GE01AxiomasIncidenciaEOrdem.pdf)
+- [GE02 - Axiomas Sobre Medição de Segmentos](SlidesGE/GE02AxiomasSobreMedicaoSegmentos.pdf)
+- [GE03 - Axiomas Sobre Medição de Ângulos](SlidesGE/GE03AxiomasSobreMedicaoAngulo.pdf)
+- [GE04 - Congruência](SlidesGE/GE04Congruencia.pdf)
+- [GE05 - Teorema do Ângulo Externo](SlidesGE/GE05TeoremaAnguloExterno.pdf)
+- [GE06 - Axioma das Paralelas](SlidesGE/GE06AxiomaParalelas.pdf)
+- [GE07 - Semelhança de Triângulos](SlidesGE/GE07SemelhancaTriangulos.pdf)
 
 
 --- -->
