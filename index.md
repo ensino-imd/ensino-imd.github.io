@@ -17,28 +17,20 @@ Arquivo das Notas de Aula:
 Arquivos dos slides usados em aula:
 
 ## Cálculo
-- [ME01 - Conjuntos](materiais/ME01%20-%20Conjuntos.pdf)
-- [ME02 - Conjuntos Numéricos e Potenciação](materiais/ME02%20-%20Conjuntos%20Numéricos%20e%20Potenciação.pdf)
-- [ME03 - Equações e Inequações](materiais/ME03%20-%20Equações%20e%20Inequações.pdf)
-- [ME04 - Princípio da Indução Finita](materiais/ME04%20-%20Princípio%20da%20Indução%20Finita.pdf)
-- [ME05 - Funções](materiais/ME05%20-%20Funções.pdf)
-- [ME06 - Progressões](materiais/ME06%20-%20Progressões.pdf)
-- [ME07 - Funções Reais e Gráficos](materiais/ME07%20-%20Funções%20Reais%20e%20Gráficos.pdf)
-- [ME08 - Funções Polinomiais](materiais/ME08%20-%20Funções%20Polinomiais.pdf)
-- [ME09 - Funções Exponenciais e Logarítmicas](materiais/ME09%20-%20Funções%20Exponenciais%20e%20Logarítmicas.pdf)
-- [ME10 - Funções Trigonométricas](materiais/ME10%20-%20Funções%20Trigonométricas.pdf)
+- [CA01 - Limite e Continuidade](materiais/ME01%20-%20Conjuntos.pdf)
+- [CA02 - Derivada](materiais/ME02%20-%20Conjuntos%20Numéricos%20e%20Potenciação.pdf)
+- [CA03 - Aplicações da Derivada](materiais/ME03%20-%20Equações%20e%20Inequações.pdf)
+- [CA04 - Integral Indefinida](materiais/ME04%20-%20Princípio%20da%20Indução%20Finita.pdf)
+- [CA05 - Integral Derinida](materiais/ME05%20-%20Funções.pdf)
 
-## Geometria Analítica e Vetores
-- [ME01 - Conjuntos](materiais/ME01%20-%20Conjuntos.pdf)
-- [ME02 - Conjuntos Numéricos e Potenciação](materiais/ME02%20-%20Conjuntos%20Numéricos%20e%20Potenciação.pdf)
-- [ME03 - Equações e Inequações](materiais/ME03%20-%20Equações%20e%20Inequações.pdf)
-- [ME04 - Princípio da Indução Finita](materiais/ME04%20-%20Princípio%20da%20Indução%20Finita.pdf)
-- [ME05 - Funções](materiais/ME05%20-%20Funções.pdf)
-- [ME06 - Progressões](materiais/ME06%20-%20Progressões.pdf)
-- [ME07 - Funções Reais e Gráficos](materiais/ME07%20-%20Funções%20Reais%20e%20Gráficos.pdf)
-- [ME08 - Funções Polinomiais](materiais/ME08%20-%20Funções%20Polinomiais.pdf)
-- [ME09 - Funções Exponenciais e Logarítmicas](materiais/ME09%20-%20Funções%20Exponenciais%20e%20Logarítmicas.pdf)
-- [ME10 - Funções Trigonométricas](materiais/ME10%20-%20Funções%20Trigonométricas.pdf)
+
+## Vetores e Geometria Analítica
+- [VGA01 - Retas e Planos](materiais/ME01%20-%20Conjuntos.pdf)
+- [VGA02 - Vetores no Plano e no Espaço](materiais/ME02%20-%20Conjuntos%20Numéricos%20e%20Potenciação.pdf)
+- [VGA03 - Matrizes e Sistemas Lineares(materiais/ME03%20-%20Equações%20e%20Inequações.pdf)
+- [VGA04 - Inversão de Matrizes e Determinantes](materiais/ME04%20-%20Princípio%20da%20Indução%20Finita.pdf)
+- [VGA05 - Cônicas e Quádricas](materiais/ME05%20-%20Funções.pdf)
+
 
 ## Geometria Euclidiana
 - [GE01 - Axiomas de Incidência e Ordem](SlidesGE/GE01AxiomasIncidenciaEOrdem.pdf)
