@@ -40,6 +40,15 @@ Arquivos dos slides usados em aula:
 - [ME09 - Funções Exponenciais e Logarítmicas](materiais/ME09%20-%20Funções%20Exponenciais%20e%20Logarítmicas.pdf)
 - [ME10 - Funções Trigonométricas](materiais/ME10%20-%20Funções%20Trigonométricas.pdf)
 
+## Geometria Euclidiana
+- [GE01 - Axiomas de Incidência e Ordem](materiais/aula1_AxiomasIncidenciaEOrdem.pdf)
+- [GE02 - Axiomas Sobre Medição de Segmentos](materiais/GE02%-%Axiomas%sobre%Medição%de%Segmentos.pdf)
+- [GE03 - Axiomas Sobre Medição de Ângulos](materiais/ME03%20-%20Equações%20e%20Inequações.pdf)
+- [GE04 - Congruência](materiais/ME04%20-%20Princípio%20da%20Indução%20Finita.pdf)
+- [GE05 - Teorema do Ângulo Externo](materiais/ME05%20-%20Funções.pdf)
+- [GE06 - Axioma das Paralelas](materiais/ME06%20-%20Progressões.pdf)
+- [GE07 - Semelhança de Triângulos](materiais/ME07%20-%20Funções%20Reais%20e%20Gráficos.pdf)
+
 
 --- -->
 Encontrou algum erro ou tem alguma sugestão? Por favor, comunique-nos mandando um e-mail para o endereço [ensino.imd@gmail.br](mailto:ensino.imd@gmail.br) com a sua contribuição e identificação com nome e turma. Agradecemos a sua colaboração.
