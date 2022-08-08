@@ -8,11 +8,11 @@ Email para contato: [ensino.imd@gmail.br](mailto:ensino.imd@gmail.br).
 As Notas de Aula são o material principal para o acompanhamento da disciplina. Elas foram escritas pelo professor Irineu Palhares.
 
 Arquivo das Notas de Aula:
-- Notas de Aula - Cálculo: <! -- [Preview](materiais/notas-de-aula-v1.14.pdf). -->
+- Notas de Aula - Cálculo: [Preview](materiais/notas-de-aula-v1.14.pdf).
 
-- Notas de Aula - Vetores e Geometria Analítica: <! -- [Preview](materiais/notas-de-aula-v1.14.pdf). -->
+- Notas de Aula - Vetores e Geometria Analítica: [Preview](materiais/notas-de-aula-v1.14.pdf).
 
-- Notas de Aula - Geometria Euclidiana: <! -- [Preview](materiais/notas-de-aula-v1.14.pdf). -->
+- Notas de Aula - Geometria Euclidiana: [Preview](materiais/notas-de-aula-v1.14.pdf).
 
 
 # Slides
