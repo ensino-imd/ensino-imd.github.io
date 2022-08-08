@@ -29,7 +29,7 @@ Arquivos dos slides usados em aula:
 ## Vetores e Geometria Analítica
 - [VGA01 - Retas e Planos](materiais/ME01%20-%20Conjuntos.pdf)
 - [VGA02 - Vetores no Plano e no Espaço](materiais/ME02%20-%20Conjuntos%20Numéricos%20e%20Potenciação.pdf)
-- [VGA03 - Matrizes e Sistemas Lineares(materiais/ME03%20-%20Equações%20e%20Inequações.pdf)
+- [VGA03 - Matrizes e Sistemas Lineares](materiais/ME03%20-%20Equações%20e%20Inequações.pdf)
 - [VGA04 - Inversão de Matrizes e Determinantes](materiais/ME04%20-%20Princípio%20da%20Indução%20Finita.pdf)
 - [VGA05 - Cônicas e Quádricas](materiais/ME05%20-%20Funções.pdf)
 
