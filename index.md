@@ -42,7 +42,7 @@ Arquivos dos slides usados em aula:
 
 ## Geometria Euclidiana
 - [GE01 - Axiomas de Incidência e Ordem](materiais/aula1_AxiomasIncidenciaEOrdem.pdf)
-- [GE02 - Axiomas Sobre Medição de Segmentos](materiais/GE02%-%Axiomas%sobre%Medição%de%Segmentos.pdf)
+- [GE02 - Axiomas Sobre Medição de Segmentos](materiais/GE02-Axiomas%sobre%Medição%de%Segmentos.pdf)
 - [GE03 - Axiomas Sobre Medição de Ângulos](materiais/ME03%20-%20Equações%20e%20Inequações.pdf)
 - [GE04 - Congruência](materiais/ME04%20-%20Princípio%20da%20Indução%20Finita.pdf)
 - [GE05 - Teorema do Ângulo Externo](materiais/ME05%20-%20Funções.pdf)
