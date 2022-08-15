@@ -8,7 +8,7 @@ Email para contato: [ensino.imd@gmail.br](mailto:ensino.imd@gmail.br).
 As Notas de Aula são o material principal para o acompanhamento da disciplina. Elas foram escritas pelo professor Irineu Palhares.
 
 Arquivo das Notas de Aula:
-- Notas de Aula - Cálculo: Consultar livros de Cálculo 1, tais como Guidorizzi, Stweart e Thomas.
+- Notas de Aula - Cálculo: Consultar livros de Cálculo 1, tais como Guidorizzi, Stewart e Thomas.
 
 - Notas de Aula - Vetores e Geometria Analítica: Consultar o livro de Geometria Analítica do Paulo Winterle.
 
