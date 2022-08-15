@@ -23,7 +23,7 @@ Arquivos dos slides usados em aula:
 - [CA02 - Derivada](materiais/CA02-DERIVADAS.pdf)
 - [CA03 - Aplicações da Derivada](materiais/CA03-APLICACAO_DERIVADAS.pdf)
 - [CA04 - Integral Indefinida](materiais/CA04-INTEGRAIS.pdf)
-- [CA05 - Integral Derinida](materiais/CA05-TECNICAS_INTEGRACAO.pdf)
+- [CA05 - Integral Definida](materiais/CA05-TECNICAS_INTEGRACAO.pdf)
 
 
 ## Vetores e Geometria Analítica
