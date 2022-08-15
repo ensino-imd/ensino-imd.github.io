@@ -19,11 +19,11 @@ Arquivo das Notas de Aula:
 Arquivos dos slides usados em aula:
 
 ## Cálculo
-- [CA01 - Limite e Continuidade](materiais/ME01%20-%20Conjuntos.pdf)
-- [CA02 - Derivada](materiais/ME02%20-%20Conjuntos%20Numéricos%20e%20Potenciação.pdf)
-- [CA03 - Aplicações da Derivada](materiais/ME03%20-%20Equações%20e%20Inequações.pdf)
-- [CA04 - Integral Indefinida](materiais/ME04%20-%20Princípio%20da%20Indução%20Finita.pdf)
-- [CA05 - Integral Derinida](materiais/ME05%20-%20Funções.pdf)
+- [CA01 - Limite e Continuidade](materiais/CA01-LIMITES_CONTINUIDADE.pdf)
+- [CA02 - Derivada](materiais/CA02-DERIVADAS.pdf)
+- [CA03 - Aplicações da Derivada](materiais/CA03-APLICACAO_DERIVADAS.pdf)
+- [CA04 - Integral Indefinida](materiais/CA04-INTEGRAIS.pdf)
+- [CA05 - Integral Derinida](materiais/CA05-TECNICAS_INTEGRACAO.pdf)
 
 
 ## Vetores e Geometria Analítica
