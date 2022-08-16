@@ -19,7 +19,8 @@ Arquivo das Notas de Aula:
 Arquivos dos slides usados em aula:
 
 ## Cálculo
-- [CA01 - Limite e Continuidade](materiais/CA01-LIMITES_CONTINUIDADE.pdf)
+- [CA01 - Limite e Continuidade (Tonhaunm)](materiais/CA01-LIMITES_CONTINUIDADE.pdf)
+- [CA01 - Limite e Continuidade (Irineu)](materiais/CA01_Limite_Continuidade.pdf)
 - [CA02 - Derivada](materiais/CA02-DERIVADAS.pdf)
 - [CA03 - Aplicações da Derivada](materiais/CA03-APLICACAO_DERIVADAS.pdf)
 - [CA04 - Integral Indefinida](materiais/CA04-INTEGRAIS.pdf)
