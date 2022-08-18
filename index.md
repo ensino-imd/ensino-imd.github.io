@@ -44,6 +44,18 @@ Arquivos dos slides usados em aula:
 - [GE06 - Axioma das Paralelas](SlidesGE/GE06AxiomaParalelas.pdf)
 - [GE07 - Semelhança de Triângulos](SlidesGE/GE07SemelhancaTriangulos.pdf)
 
+# Listas de Exercícios
+Arquivos das listas de exercícios:
+
+## Cálculo
+- [CA01 - Limite e Continuidade](materiais/CA01_Lista_Limite_Continuidade.pdf)
+
+
+## Vetores e Geometria Analítica
+
+
+## Geometria Euclidiana
+
 
 --- -->
 Encontrou algum erro ou tem alguma sugestão? Por favor, comunique-nos mandando um e-mail para o endereço [ensino.imd@gmail.br](mailto:ensino.imd@gmail.br) com a sua contribuição e identificação com nome e turma. Agradecemos a sua colaboração.
