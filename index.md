@@ -52,7 +52,7 @@ Arquivos das listas de exercícios:
 
 
 ## Vetores e Geometria Analítica
-
+- [VGA01 - Vetores no Plano e no Espaço](materiais/VGA01_Lista_Vetores.pdf)
 
 ## Geometria Euclidiana
 
