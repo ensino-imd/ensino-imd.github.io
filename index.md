@@ -60,8 +60,7 @@ Arquivos das listas de exercícios:
 - [GE01 - Axiomas de Incidência e Ordem](materiais/GE01_Lista1_Axiomas_Incidencia_Ordem.pdf)
 - [GE02 - Axiomas Sobre Medição de Segmentos](materiais/GE02_Lista_MedicaoSegmento.pdf)
 
-
-# Monitorias
+ <span style="color: #ff0000"># Monitorias</span>
 
 ## Geometria Euclidiana
 
