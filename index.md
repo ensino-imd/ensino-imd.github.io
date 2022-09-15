@@ -61,5 +61,22 @@ Arquivos das listas de exercícios:
 - [GE02 - Axiomas Sobre Medição de Segmentos](materiais/GE02_Lista_MedicaoSegmento.pdf)
 
 
+# Monitorias
+
+## Geometria Euclidiana
+
+Horários de atendimento:
+
+|     | Segunda |   Terça  | Quarta |  Quinta  |   Sexta  | Sábado | 
+|-----|:-------:|:--------:|:------:|:--------:|:--------:|:------:|
+| M12 |         |          |        |          |          |        |
+| M34 |         |          |        |          |          |        |
+| M56 |         |          |        |          |          |        |
+| T12 |         |          |        |          |          |        |
+| T34 |         |          |        |          |          |        |
+| T56 |         |          |[Adriel](https://meet.google.com/orp-iwrq-scf)|          |Adriel - A220|        |
+| N12 |         |          |        |          |          |        |
+| N34 |         |          |        |          |          |        |
+
 --- -->
 Encontrou algum erro ou tem alguma sugestão? Por favor, comunique-nos mandando um e-mail para o endereço [ensino.imd@gmail.br](mailto:ensino.imd@gmail.br) com a sua contribuição e identificação com nome e turma. Agradecemos a sua colaboração.
