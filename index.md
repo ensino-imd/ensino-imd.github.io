@@ -55,6 +55,7 @@ Arquivos das listas de exercícios:
 
 ## Vetores e Geometria Analítica
 - [VGA01 - Vetores no Plano e no Espaço](materiais/VGA01_Lista_Vetores.pdf)
+- [VGA02 - Retas e Planos](materiais/VGA02_Lista_Retas_Planos.pdf)
 
 ## Geometria Euclidiana
 - [GE01 - Axiomas de Incidência e Ordem](materiais/GE01_Lista1_Axiomas_Incidencia_Ordem.pdf)
