@@ -49,6 +49,7 @@ Arquivos das listas de exercícios:
 ## Cálculo
 - [CA01 - Limite e Continuidade](materiais/CA01_Lista_Limite_Continuidade.pdf)
 - [CA02 - Derivadas](materiais/CA02_Lista_Derivadas.pdf)
+- [CA03 - Apliecações das derivadas](materiais/CA03_Lista_Aplicacoes_Derivada.pdf)
 
 
 ## Vetores e Geometria Analítica
