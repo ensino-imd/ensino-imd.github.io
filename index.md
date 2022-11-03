@@ -61,6 +61,7 @@ Arquivos das listas de exercícios:
 - [GE01 - Axiomas de Incidência e Ordem](materiais/GE01_Lista1_Axiomas_Incidencia_Ordem.pdf)
 - [GE02 - Axiomas Sobre Medição de Segmentos](materiais/GE02_Lista_MedicaoSegmento.pdf)
 - [GE03 - Axiomas Sobre Medição de Ângulos](materiais/GE03_Lista_MedicaoAngulo.pdf)
+- [GE04 - Congruência](materiais/Lista_Congruencia.pdf)
 
 # Monitorias
 
