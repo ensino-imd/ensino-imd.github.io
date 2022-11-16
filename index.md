@@ -22,7 +22,7 @@ Arquivos dos slides usados em aula:
 - [CA01 - Limite e Continuidade](materiais/CA01_Limite_Continuidade.pdf)
 - [CA02 - Derivada](materiais/CA02_Derivadas.pdf)
 - [CA03 - Aplicações da Derivada](materiais/CA03_Aplicacoes_Derivada.pdf)
-- [CA04 - Integral Indefinida](materiais/CA04-INTEGRAIS.pdf)
+- [CA04 - Integral Indefinida](materiais/CA04_Integral_Indefinida.pdf)
 - [CA05 - Integral Definida](materiais/CA05-TECNICAS_INTEGRACAO.pdf)
 
 
@@ -50,6 +50,7 @@ Arquivos das listas de exercícios:
 - [CA01 - Limite e Continuidade](materiais/CA01_Lista_Limite_Continuidade.pdf)
 - [CA02 - Derivadas](materiais/CA02_Lista_Derivadas.pdf)
 - [CA03 - Aplicações das derivadas](materiais/CA03_Lista_Aplicacoes_Derivada.pdf)
+- [CA04 - Integral Indefinida](materiais/Lista_Integral_Indefinida.pdf)
 
 
 ## Vetores e Geometria Analítica
