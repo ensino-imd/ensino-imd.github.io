@@ -24,6 +24,7 @@ Arquivos dos slides usados em aula:
 - [CA03 - Aplicações da Derivada](materiais/CA03_Aplicacoes_Derivada.pdf)
 - [CA04 - Integral Indefinida](materiais/CA04_Integral_Indefinida.pdf)
 - [CA05 - Integral Definida](materiais/CA05-TECNICAS_INTEGRACAO.pdf)
+- [Trabalho - Método de Newton e Equação de Malthus](materiais/Trabalho1.pdf)
 
 
 ## Vetores e Geometria Analítica
