@@ -22,15 +22,16 @@ Arquivos dos slides usados em aula:
 - [CA01 - Limite e Continuidade](materiais/CA01_Limite_Continuidade.pdf)
 - [CA02 - Derivada](materiais/CA02_Derivadas.pdf)
 - [CA03 - Aplicações da Derivada](materiais/CA03_Aplicacoes_Derivada.pdf)
+- [Trabalho - Método de Newton e Equação de Malthus](materiais/Trabalho1.pdf)
 - [CA04 - Integral Indefinida](materiais/CA04_Integral_Indefinida.pdf)
 - [CA05 - Integral Definida](materiais/CA05_Integral_Definida.pdf)
-- [Trabalho - Método de Newton e Equação de Malthus](materiais/Trabalho1.pdf)
 
 
 ## Vetores e Geometria Analítica
 - [VGA01 - Vetores no Plano e no Espaço](materiais/VGA01_Vetores.pdf)
 - [VGA02 - Retas e Planos](materiais/VGA02_Retas_Planos.pdf)
 - [VGA03 - Matrizes e Sistemas Lineares](materiais/VGA03_Matrizes_Sistemas_Lineares.pdf)
+- [Método de Jacobi-Richardson](materiais/JacobiRichardson.pdf)
 - [VGA04 - Inversão de Matrizes e Determinantes](materiais/VGA01_Vetores.pdf)
 - [VGA05 - Cônicas e Quádricas](materiais/VGA01_Vetores.pdf)
 
