@@ -66,6 +66,23 @@ Arquivos das listas de exercícios:
 - [GE03 - Axiomas Sobre Medição de Ângulos](materiais/GE03_Lista_MedicaoAngulo.pdf)
 - [GE04 - Congruência](materiais/Lista_Congruencia.pdf)
 
+# Programas
+Arquivos de programas criados em aula/monitoria:
+
+## Cálculo
+
+## Vetores e Geometria Analítica
+- [Makefile](materiais/Makefile)
+- [main.c](materiais/main.c)
+- [GaussianElimination.c](materiais/GaussianElimination.c)
+- [GaussianElimination.h](materiais/GaussianElimination.h)
+- [BackwardSubstitution.c](materiais/BackwardSubstitution.c)
+- [BackwardSubstitution.h](materiais/BackwardSubstitution.h)
+- [JacobiRichardson.c](materiais/JacobiRichardson.c)
+- [JacobiRichardson.h](materiais/JacobiRichardson.h)
+
+## Geometria Euclidiana
+
 # Monitorias
 
 ## Geometria Euclidiana
