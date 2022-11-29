@@ -33,7 +33,7 @@ Arquivos dos slides usados em aula:
 - [VGA02 - Retas e Planos](materiais/VGA02_Retas_Planos.pdf)
 - [VGA03 - Matrizes e Sistemas Lineares](materiais/VGA03_Matrizes_Sistemas_Lineares.pdf)
 - [Método de Jacobi-Richardson](materiais/JacobiRichardson.pdf)
-- [VGA04 - Inversão de Matrizes e Determinantes](materiais/VGA01_Vetores.pdf)
+- [VGA04 - Inversão de Matrizes e Determinantes](materiais/VGA04_InversaMatrizesDeterminantes.pdf)
 - [VGA05 - Cônicas e Quádricas](materiais/VGA01_Vetores.pdf)
 
 
@@ -61,6 +61,7 @@ Arquivos das listas de exercícios:
 - [VGA01 - Vetores no Plano e no Espaço](materiais/VGA01_Lista_Vetores.pdf)
 - [VGA02 - Retas e Planos](materiais/VGA02_Lista_Retas_Planos.pdf)
 - [VGA03 - Matrizes e Sistemas Lineares](materiais/VGA03_Lista_Matrizes_Sistemas_Lineares.pdf)
+- [VGA04 - Inversão de Matrizes de Determinantes](materiais/VGA04_Lista_Inversao_Determinantes.pdf)
 
 ## Geometria Euclidiana
 - [GE01 - Axiomas de Incidência e Ordem](materiais/GE01_Lista1_Axiomas_Incidencia_Ordem.pdf)
