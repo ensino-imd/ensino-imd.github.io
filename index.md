@@ -25,7 +25,7 @@ Arquivos dos slides usados em aula:
 - [Trabalho - Método de Newton e Equação de Malthus](materiais/Trabalho1.pdf)
 - [Método de Newton](materiais/MetodoNewton.pdf)
 - [CA04 - Integral Indefinida](materiais/CA04_Integral_Indefinida.pdf)
-- [CA05 - Integral Definida](materiais/CA05_Integral_Definida.pdf)
+- [CA05 - Integral Definida](materiais/CA05_Integral_Definida.pdf) target="_blank">PDF.
 
 
 ## Vetores e Geometria Analítica
