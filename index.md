@@ -68,7 +68,7 @@ Arquivos das listas de exercícios:
 - [GE02 - Axiomas Sobre Medição de Segmentos](materiais/GE02_Lista_MedicaoSegmento.pdf)
 - [GE03 - Axiomas Sobre Medição de Ângulos](materiais/GE03_Lista_MedicaoAngulo.pdf)
 - [GE04 - Congruência](materiais/Lista_Congruencia.pdf)
-- [GE04 - Teorema do Ângulo Externo](materiais/GE05_Lista_Teorema_Angulo_Externo.pdf)
+- [GE05 - Teorema do Ângulo Externo](materiais/GE05_Lista_Teorema_Angulo_Externo.pdf)
 
 # Programas
 Arquivos de programas criados em aula/monitoria:
